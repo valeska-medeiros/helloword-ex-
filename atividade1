@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+    <head>
+        <meta charset="UTF-8">
+        <title>The Women</title>
+        <link rel="stylesheet" href="estilo.css">
+</head>
+    
+
+    <body>
+        <header id="topo">
+            
+            <!-- <div class="-container"> -->
+            <img class= "logo" src="./img/logo.png" alt="LOGO">
+
+            <ul> 
+                <li><a href= index.html>Home</a></li> 
+                <li><a href= ada.html>Ada Lovalece</a></li> 
+                <li><a href= grace.html>Grace Hopper</a></li>
+                <li><a href= mary.html>Mary Keller</a></li>
+                <li><a href= margaret.html>Margaret Hamilton</a></li>
+        </ul>
+        <!-- <ol> 
+                <li>item 1</li> 
+                <li>item 2</li> 
+    </ol> -->
+    </header>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+        <h1>Mulheres incríveis da tecnologia.</h1>
+</br>
+</br>
+    <!-- <p>Você conhece <strong>Ada Lovalece</strong>?</p> -->
+    <!-- <i>Ada foi a primeira programadora do mundo</i><br> -->
+    <!-- <em>Ada foi a primeira programadora do mundo</em><br> -->
+        <p class="texto"> As mulheres tiveram papéis importantíssimos no desenvolvimento de muitas tecnologias, desde muito tempo atrás. Saiba um pouco mais sobre cada uma dessas mulheres incríveis.</p>
+        <img src="./img/icon-home.jpg" alt="mulher-tecnologia">
+
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+        <p >Quer saber mais sobre as mulheres incríveis da tecnologia?</p>
+        <a id="foot" href="https://canaltech.com.br/curiosidades/mulheres-historicas-ada-lovelace-a-primeira-programadora-de-todos-os-tempos-71395/">Veja mais aqui!</a>
+    
+</body>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+    <footer id="footer">
+
+        <p>Feito com carinho para <strong>[Des]programe</strong> por Valeska Medeiros.</p>
+</footer>
+</html>
